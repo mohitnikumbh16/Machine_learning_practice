@@ -15,3 +15,39 @@ conda create -p venv python==3.7 -y
 conda activate venv/
 '''
 
+to add files to git
+'''
+git add .
+'''
+or
+'''
+git add file_name
+'''
+
+to ingnore file or folder we use file name in gitignore file
+
+
+to check git status
+'''
+git status
+'''
+
+to check all version maintain by git
+'''
+git log
+'''
+
+to crate version/commite all changes by git
+'''
+git commit -m "message"
+'''
+
+to send version/changes to github
+'''
+git push origin main
+'''
+
+to check remote url
+'''
+git remote -v
+'''
