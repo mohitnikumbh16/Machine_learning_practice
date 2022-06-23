@@ -66,3 +66,7 @@ docker build -t <image_name>:<tag_name> .
 '''
 > NOTE: Image name for docker must be lowercase
 
+
+
+Housing is root folder of project we write our main project code inside it
+
