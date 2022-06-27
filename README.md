@@ -70,3 +70,6 @@ docker build -t <image_name>:<tag_name> .
 
 Housing is root folder of project we write our main project code inside it
 
+'''
+-e . trying to take care things whuch is not installed it install everithing which neede to be install.
+'''

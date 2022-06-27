@@ -1,4 +1,6 @@
 Flask
+numpy
 gunicorn
 sklearn 
 pandas
+-e . #it is usefull install housing 
