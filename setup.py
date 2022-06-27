@@ -28,7 +28,7 @@ setup(name = PROJECT_NAME,
 version = VERSION,
 author= AUTHOR,
 description= DESCRIPTION,
-packages=find_packages(), #["housing"]#it gives custome packegs which is present in init
+packages=find_packages(), #["housing"] it gives custome packegs which is present in init
 install_requires =get_requirements_list() )#it install packeges which are present externally in requiremets.txt
 
 
